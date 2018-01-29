@@ -1,0 +1,9 @@
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LockSmith\LockSmith\bin\Debug\LockSmith.exe.config
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LockSmith\LockSmith\bin\Debug\LockSmith.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LockSmith\LockSmith\bin\Debug\LockSmith.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LockSmith\LockSmith\obj\Debug\LockSmith.AboutBox1.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LockSmith\LockSmith\obj\Debug\LockSmith.FormListLocks.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LockSmith\LockSmith\obj\Debug\LockSmith.csproj.GenerateResource.Cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LockSmith\LockSmith\obj\Debug\LockSmith.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LockSmith\LockSmith\obj\Debug\LockSmith.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\LockSmith\LockSmith\obj\Debug\LockSmith.csprojResolveAssemblyReference.cache

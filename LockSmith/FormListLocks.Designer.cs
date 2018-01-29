@@ -36,6 +36,7 @@
             this.ShowInExplorerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.CloseFileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ContextMenuStripListView = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.refreshToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.ContextMenuStripForm = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.refreshToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ColumnHeaderID = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
@@ -50,7 +51,6 @@
             this.buttonBrowse = new System.Windows.Forms.Button();
             this.buttonSearch = new System.Windows.Forms.Button();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
-            this.refreshToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.ContextMenuStripListView.SuspendLayout();
             this.ContextMenuStripForm.SuspendLayout();
             this.SuspendLayout();
@@ -103,6 +103,13 @@
             this.ContextMenuStripListView.ShowImageMargin = false;
             this.ContextMenuStripListView.Size = new System.Drawing.Size(152, 114);
             this.ContextMenuStripListView.Opening += new System.ComponentModel.CancelEventHandler(this.ContextMenuStripListView_Opening);
+            // 
+            // refreshToolStripMenuItem1
+            // 
+            this.refreshToolStripMenuItem1.Name = "refreshToolStripMenuItem1";
+            this.refreshToolStripMenuItem1.Size = new System.Drawing.Size(151, 22);
+            this.refreshToolStripMenuItem1.Text = "Re&fresh";
+            this.refreshToolStripMenuItem1.Click += new System.EventHandler(this.refreshToolStripMenuItem1_Click);
             // 
             // ContextMenuStripForm
             // 
@@ -217,13 +224,6 @@
             // openFileDialog1
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
-            // 
-            // refreshToolStripMenuItem1
-            // 
-            this.refreshToolStripMenuItem1.Name = "refreshToolStripMenuItem1";
-            this.refreshToolStripMenuItem1.Size = new System.Drawing.Size(151, 22);
-            this.refreshToolStripMenuItem1.Text = "Re&fresh";
-            this.refreshToolStripMenuItem1.Click += new System.EventHandler(this.refreshToolStripMenuItem1_Click);
             // 
             // FormListLocks
             // 
